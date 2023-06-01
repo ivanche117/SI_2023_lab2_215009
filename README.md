@@ -2,7 +2,8 @@
 
 2. Слика од Control Flow Graph
 
-<img width="393" alt="cfg 215009" src="https://github.com/ivanche117/SI_2023_lab2_215009/assets/127608868/f867445a-de0d-41bd-829b-fb205349f8d0">
+<img width="393" alt="cfg 215009" src="https://github.com/ivanche117/SI_2023_lab2_215009/assets/127608868/6cb3130c-87d0-4331-bf04-77bc842fc320">
+
 
 
 3. Цикломатската комплексност на графот изнесува 11. 
